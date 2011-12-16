@@ -32,7 +32,7 @@ server-tree:
     newtalk:
         color: '#d33b54'
     unread:
-        color: '#d33b54'
+        color: '#5c2228'
     normal:
         active:
             color: '#444'
@@ -40,11 +40,12 @@ server-tree:
             color: '#ccc'
     selected:
         active:
-            color: '#fff'
+            color: '#000'
         inactive:
-            color: '#eee'
+            color: '#000'
         background:
-            top-line-color: '#68788c'
-            bottom-line-color: '#405770'
-            top-color: '#8293a6'
-            bottom-color: '#445b73'
+            # gradient
+            top-line-color: '#adbbd0'
+            bottom-line-color: '#8c98b0'
+            top-color: '#adbbd0'
+            bottom-color: '#98aac4'
