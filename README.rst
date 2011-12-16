@@ -4,6 +4,8 @@ Elysium
 
 Elysium is a LimeChat theme meant to be light, airy, and Mac-like. It's based on `Rik's fork of Whisper <https://github.com/Rik/limechat-whisper/>`_, but everybody has their own opinions, don't they? :-)
 
+.. image:: https://github.com/erikrose/elysium/raw/master/Elysium.png
+
 Installation
 ============
 
