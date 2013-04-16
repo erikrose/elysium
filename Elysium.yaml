@@ -35,12 +35,12 @@ server-tree:
         color: '#000'
     normal:
         active:
-            color: '#444'
+            color: '#666'
         inactive:
             color: '#ccc'
     selected:
         active:
-            color: '#444'
+            color: '#666'
         inactive:
             color: '#bbb'
         background:
