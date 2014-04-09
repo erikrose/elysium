@@ -9,7 +9,7 @@ Elysium is a LimeChat theme meant to be light, airy, and Mac-like. It's based on
 Installation
 ============
 
-Toss ``Elysium.css`` and ``Elysium.yaml`` into ``~Library/Application Support/LimeChat/Themes``.
+Toss ``Elysium.css`` and ``Elysium.yaml`` into ``~/Library/Application Support/LimeChat/Themes``.
 
 Design Goals
 ============
